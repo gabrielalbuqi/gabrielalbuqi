@@ -1,7 +1,7 @@
 <h3 align="center">Developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelcarneiro&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelcarneiro" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelcarneiro&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielalbuqi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafaelcarneiro" alt="rafaelcarneiro" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafaelcarneiro" alt="gabrielalbuqi" /></a> </p>
 
     let name ='João Gabriel';
     let location = 'Teresina, Piaui, Brazil';
