@@ -56,19 +56,3 @@
 </p>
 
 <img src="assets/borderseperator.gif">
-
-<h3 align="center">Conecte-se Comigo</h3>
-<p align="center">
-  <a href=[speedcubing](https://www.linkedin.com/in/joão-gabriel-araujo-albuquerque-17492424b/)" target="_blank">
-    <img align="center" alt="linkedin logo" height="50" width="50" src="" />
-  </a> &nbsp;&nbsp;
-
-  <a href="https://github.com/gabrielalbuqi" target="_blank">
-    <img align="center" alt="github logo" height="50" width="50" src=""/>
-  </a> &nbsp;&nbsp;
-  
-  <a href="mailto:joaogabrielpc9@gmail.com" target="_blank">
-    <img align="center" alt="gmail logo" height="50" width="50" src="" />
-  </a> &nbsp;&nbsp;
-  </a>
-</p>
