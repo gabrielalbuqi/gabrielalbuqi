@@ -10,12 +10,10 @@
 
 * 🌳 **Atualmente Aprendendo:** JavaScript <br> 
   Explorando:
-  - Projetos Front-End modernos.
-  - Soluções ágeis no código. <br>
-
+  
 * 🐾 **Busco Conexões:** Networking com desenvolvedores e entusiastas da tecnologia. <br><br>
 
-* 🌊 **Metas para 2025:** Contribuir com projetos de código aberto e crescer na área de desenvolvimento. <br><br>
+* 🌊 **Metas para 2025:** Iniciar projetos e crescer na área de desenvolvimento. <br><br>
 
 * ☕ **Interesses:** Livros, tecnologia, e desenvolvimento criativo. <br><br>
 
