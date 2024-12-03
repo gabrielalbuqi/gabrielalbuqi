@@ -10,7 +10,7 @@
 
 * 🌳 **Atualmente Aprendendo:** JavaScript <br>
   - Projetos Front-End modernos.
-  - Desafios no speedcubing e soluções ágeis no código. <br>
+  - Ssoluções ágeis no código. <br>
   
 * 🐾 **Busco Conexões:** Networking com desenvolvedores e entusiastas da tecnologia. <br><br>
 
