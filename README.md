@@ -1,5 +1,5 @@
 
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Olá%2C+Eu+sou+Jota!+Bem-vindo+ao+meu+Perfil!" align="middle" alt="Olá, Eu sou Jota! Bem-vindo ao meu Perfil!" />
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Olá%2C+Eu+sou+o+Jota!+Bem-vindo+ao+meu+Perfil!" align="middle" alt="Olá, Eu sou Jota! Bem-vindo ao meu Perfil!" />
 <img  src="assets/borderseperator.gif">
 
 <a href="https://app.daily.dev/gabrielalbuqi"> 
@@ -60,15 +60,15 @@
 <h3 align="center">Conecte-se Comigo</h3>
 <p align="center">
   <a href=[speedcubing](https://www.linkedin.com/in/joão-gabriel-araujo-albuquerque-17492424b/)" target="_blank">
-    <img align="center" alt="linkedin logo" height="50" width="50" src="assets/linkedinlogo.png" />
+    <img align="center" alt="linkedin logo" height="50" width="50" src="" />
   </a> &nbsp;&nbsp;
 
   <a href="https://github.com/gabrielalbuqi" target="_blank">
-    <img align="center" alt="github logo" height="50" width="50" src="assets/githublogo.png"/>
+    <img align="center" alt="github logo" height="50" width="50" src=""/>
   </a> &nbsp;&nbsp;
   
   <a href="mailto:joaogabrielpc9@gmail.com" target="_blank">
-    <img align="center" alt="gmail logo" height="50" width="50" src="assets/gmailogo.png" />
+    <img align="center" alt="gmail logo" height="50" width="50" src="" />
   </a> &nbsp;&nbsp;
   </a>
 </p>
