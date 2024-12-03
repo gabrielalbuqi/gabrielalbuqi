@@ -8,16 +8,20 @@
 
 <h2 align="center"> Apaixonado por tecnologia, e sempre aprendendo! <img src="assets/flamey.gif" width="30"/> </h2>
 
-* 🌳 **Atualmente Aprendendo:** JavaScript <br> 
-  Explorando:
+* 🌳 **Atualmente Aprendendo:** JavaScript <br>
+  
   
 * 🐾 **Busco Conexões:** Networking com desenvolvedores e entusiastas da tecnologia. <br><br>
 
+
 * 🌊 **Metas para 2025:** Iniciar projetos e crescer na área de desenvolvimento. <br><br>
+
 
 * ☕ **Interesses:** Livros, tecnologia, e desenvolvimento criativo. <br><br>
 
+
 * :octocat: **Hobbies:** jogos, leitura e séries. <br><br>
+
 
 <h2></h2><br>
 
