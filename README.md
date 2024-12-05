@@ -16,7 +16,7 @@
 
 * 🌊 **Metas para 2025:** Iniciar projetos e crescer na área de desenvolvimento. <br><br>
 
-* ☕ **Interesses:** Livros, tecnologia, e desenvolvimento criativo. <br><br>
+* ☕ **Interesses:** Empreendedorismo, tecnologia, e desenvolvimento criativo. <br><br>
 
 * :octocat: **Hobbies:** jogos, leitura e séries. <br><br>
 
